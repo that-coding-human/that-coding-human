@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @that-coding-human
-- 👀 I’m interested in Cloud and Datacenter automation.
+- 👀 I’m interested in any fun projects ... and Cloud and Datacenter automation.
 - 🌱 I’m currently learning building IOT services and electronic solutions.
 - 💞️ I’m looking to collaborate on interesting Opensource projects of all kinds.
 - 📫 How to reach me: open an issue on my projects or send me a message. 
